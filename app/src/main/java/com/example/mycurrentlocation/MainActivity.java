@@ -378,4 +378,8 @@ public class MainActivity<sensorManager> extends AppCompatActivity implements Lo
     }
 
 
+
+
+    int x = 1;
+
 }
